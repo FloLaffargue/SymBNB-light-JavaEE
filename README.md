@@ -8,4 +8,6 @@ Ce projet (light) m'a permis de travailler avec les technologies suivantes :
 - Hibernate (manque encore l'ajout de JPA)
 - Maven
 
-Pour terminé, il est prévu l'intégration d'une API REST permettant la lecture / modification / l'ajout d'utilisateurs
+Manque encore:
+- L'ajout de la spécification JPA
+- L'intégration d'une d'une API REST avec Jersey permettant la lecture / modification / l'ajout d'utilisateurs
