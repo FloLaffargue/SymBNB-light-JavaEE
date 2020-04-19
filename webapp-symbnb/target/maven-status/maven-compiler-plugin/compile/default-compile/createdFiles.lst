@@ -1,0 +1,8 @@
+com\florianlaffargue\symbnb\webapp\controller\AnnonceHomeServlet.class
+com\florianlaffargue\symbnb\webapp\controller\AnnonceDelete.class
+com\florianlaffargue\symbnb\webapp\controller\logoutServlet.class
+com\florianlaffargue\symbnb\webapp\controller\LoginServlet.class
+com\florianlaffargue\symbnb\webapp\controller\AnnonceNewServlet.class
+com\florianlaffargue\symbnb\webapp\provider\AnnonceServiceProvider.class
+com\florianlaffargue\symbnb\webapp\controller\AnnonceListServlet.class
+com\florianlaffargue\symbnb\webapp\controller\AnnonceUpdateServlet.class

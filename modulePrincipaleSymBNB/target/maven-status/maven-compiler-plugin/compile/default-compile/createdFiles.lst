@@ -1,0 +1,9 @@
+com\florianlaffargue\symbnb\coreBNB\service\AnnonceService.class
+com\florianlaffargue\symbnb\coreBNB\dto\ImageDto.class
+com\florianlaffargue\symbnb\coreBNB\entity\User.class
+com\florianlaffargue\symbnb\coreBNB\entity\Image.class
+com\florianlaffargue\symbnb\coreBNB\HibernateUtil.class
+com\florianlaffargue\symbnb\coreBNB\dto\UserDto.class
+com\florianlaffargue\symbnb\coreBNB\dto\AnnonceDto.class
+com\florianlaffargue\symbnb\coreBNB\entity\Annonce.class
+com\florianlaffargue\symbnb\coreBNB\repository\AnnonceRepositoryImpl.class
